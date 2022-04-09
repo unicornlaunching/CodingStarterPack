@@ -10,15 +10,14 @@
 #### That you can do something that you haven't done before. And if you believe that you can do something that you haven't done before, you're tall enough to step on this rollercoaster. And it will be  a rollercoaster.
 
 ***
-
 ## STEPS:
+
+![Changing stuff and seeing what happens](https://pbs.twimg.com/media/EPz8GQTXsAIBfsy.jpg)
+> Changing stuff and seeing what happens is the core principle of software engineering. 
+
 ### copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
 ### when you're done copying and pasting, click on Run to complete Lab Number 1. You'll have gotten farther than 99% of people who start.
 ### when you're done copying and pasting the code, start changing stuff.
-
-> Changing stuff and seeing what happens is the core principle of software engineering. 
-
-![Changing stuff and seeing what happens](https://pbs.twimg.com/media/EPz8GQTXsAIBfsy.jpg)
 
 ***
 
