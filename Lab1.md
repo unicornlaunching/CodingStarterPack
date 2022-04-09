@@ -27,8 +27,7 @@
 ***
 
 ```
-# Start copying from here
-# ever heard of invisible ink?
+# Start copying from here# ever heard of invisible ink?
 # if you start a line of with a #, it's like you're writing with invisible ink
 # wow
 # code
@@ -81,25 +80,21 @@ print(y)
 ##################
 print ("------------------")
 #STEP 3: HELLO LISTS
-# create a list of grocery_list
-listofgrocery_list = [7, 4, 6, 1, 2, 4]
 
-# print the list of grocery_list
-print(listofgrocery_list)
-
-print("---------------")
+# create a list of values
+list = [7, 4, 6, 1, 2, 4]
 
 # print the 0 position in the list
-print(listofgrocery_list[0])
+print(list[0])
 
 # print the 3 position in the list
-print(listofgrocery_list[3])
+print(list[3])
 
 # print the last position in the list
-print(listofgrocery_list[-1])
+print(list[-1])
 
 # print the length of the list of grocery_list
-print(len(listofgrocery_list))
+print(len(list))
 
 ##################
 print ("------------------")
@@ -107,7 +102,7 @@ print ("------------------")
 # HELLO LOOPS
 print("Hello Loops")
 #print all of the elements in listofgrocery_list
-for i in listofgrocery_list:
+for i in list:
     print(i)
 
 
@@ -182,7 +177,5 @@ for i in thisdict:
     print(i, ": ", thisdict[i])
     
 print(len(thisdict))
-
-# end copying here
 
 ```
