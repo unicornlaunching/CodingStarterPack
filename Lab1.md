@@ -1,6 +1,6 @@
 # Welcome to Coding Starter Pack Lab Number 1
 
-'''python
+```python
 # ever heard of invisible ink?
 # if you start a line of with a #, it's like you're writing with invisible ink
 # wow
@@ -126,4 +126,4 @@ values = ["a", "b", "c", "d"]
 # print position and corresponding value in array
 for count, value in enumerate(values):
      print(count, value)
-'''
+```
