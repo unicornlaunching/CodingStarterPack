@@ -17,7 +17,8 @@
 
 ### copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
 ### when you're done copying and pasting, click on Run to complete Lab Number 1. You'll have gotten farther than 99% of people who start.
-### when you're done copying and pasting the code, start changing stuff.
+### when you're done copying and pasting the code, start changing stuff and clicking Run again to see what happens.
+### Stop. Go for a walk. You learn when you're away from the desk because that's when you fire theta-nested gamma oscillations. The understanding will come when you walk away from the desk, trust me.
 
 ***
 
