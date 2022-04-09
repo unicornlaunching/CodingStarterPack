@@ -1,4 +1,7 @@
 # Welcome to Coding Starter Pack Lab Number 1
+
+![Homer Learning Python](https://media3.giphy.com/media/3o6MbhdrQxaTJxhOiQ/giphy.gif)
+
 > Emphasize the start - Jason Selk
 ***
 
