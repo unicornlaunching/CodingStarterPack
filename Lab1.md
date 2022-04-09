@@ -1,4 +1,7 @@
 # Welcome to Coding Starter Pack Lab Number 1
+## copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Creating the <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> Tutorial for idiots like me. <a href="https://twitter.com/hashtag/100DaysOfWeb3?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfWeb3</a><br><br>If you&#39;re just starting out, you can start code learning immediately with <a href="https://t.co/1zv6PR0x8z">https://t.co/1zv6PR0x8z</a> <a href="https://t.co/ATqjUshDwo">pic.twitter.com/ATqjUshDwo</a></p>&mdash; So you want to... (@attractfunding) <a href="https://twitter.com/attractfunding/status/1512825132066263041?ref_src=twsrc%5Etfw">April 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ```python
 # ever heard of invisible ink?
