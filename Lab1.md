@@ -1,11 +1,10 @@
 # Welcome to Coding Starter Pack Lab Number 1
 ## copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
 
-```{r echo=FALSE}
-blogdown::shortcode('tweet', '1512825132066263041')
-```
 
-```python
+```
+# Start copying from here
+
 # ever heard of invisible ink?
 # if you start a line of with a #, it's like you're writing with invisible ink
 # wow
@@ -131,4 +130,9 @@ values = ["a", "b", "c", "d"]
 # print position and corresponding value in array
 for count, value in enumerate(values):
      print(count, value)
+
+# end copying here
+
 ```
+
+
