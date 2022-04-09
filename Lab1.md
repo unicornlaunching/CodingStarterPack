@@ -2,6 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/45397093/162582764-b3797b4a-aadc-417d-960f-38b8ffb040ad.png)
 
+## If you can copy and paste, you can learn how to code.
+### That said, to be a coder, you're going to have to first believe that you're life isn't over yet. That your brain isn't over yet.
+#### That you can do something that you haven't done before. And if you believe that you can do something that youhaven't done before, you're tall enough to step on this rollercoaster. And it will be  a rollercoaster.
 
 ## copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
 
@@ -138,5 +141,3 @@ for count, value in enumerate(values):
 # end copying here
 
 ```
-
-
