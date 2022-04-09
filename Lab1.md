@@ -46,18 +46,25 @@ print ("------------------")
 ##################
 
 # STEP 0: HELLO WORLD
-
-
+# print a blank line
 print(" ")
 
 # print Hello World
 print("Hello World")
 
 ##################
+
 print ("------------------")
+
+##################
+
 # STEP 1: HELLO x
+# print Step 1: Hello x
 print ("STEP 1: HELLO x")
+
+# print a blank line
 print(" ")
+
 # create a variable called x to hold the value 5
 x = 5
 
@@ -166,6 +173,7 @@ for i in thisdict:
 
 # print the length or total number of values stored in thisdict    
 print(len(thisdict))
+
 
 # end copying here
 
