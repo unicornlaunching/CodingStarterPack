@@ -16,8 +16,10 @@ grocery_list = [5, 6, 7, 8, 9]
 
 # we can display an item in our grocery list like this
 print(grocery_list[0])
+#notice that the first item in a list is stored in the zero position. coders don't like to waste space, so everything starts at zero for them. Just ask Peter Thiel who wrote Zero To One, which is a key part of the Venture Capitalist Starter Pack.
 
 for count, value in enumerate(grocery_list):
      print("The ", count, " position of grocery_list stores ", value)
+
 
 ~~~
