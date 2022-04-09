@@ -28,6 +28,7 @@
 
 ```
 # Start copying from here# ever heard of invisible ink?
+# ever heard of invisible ink?
 # if you start a line of with a #, it's like you're writing with invisible ink
 # wow
 # code
@@ -79,48 +80,33 @@ print(y)
 
 ##################
 print ("------------------")
-#STEP 3: HELLO LISTS
-
-# create a list of values
-list = [7, 4, 6, 1, 2, 4]
-
-# print the 0 position in the list
-print(list[0])
-
-# print the 3 position in the list
-print(list[3])
-
-# print the last position in the list
-print(list[-1])
-
-# print the length of the list of grocery_list
-print(len(list))
-
-##################
-print ("------------------")
-
-# HELLO LOOPS
-print("Hello Loops")
-#print all of the elements in listofgrocery_list
-for i in list:
-    print(i)
-
-
-##################
-print ("------------------")
 # HELLO LEETCODE 1
 
 print("Dictionary filling positions 0-4 with grocery_list 1-5")
 thisdict = {
-    0: 1,
-    1: 2,
-    2: 3,
-    3: 4,
-    4: 5
+    0: 5,
+    1: 6,
+    2: 7,
+    3: 8,
+    4: 9
     }
 
+print("")
+
+# for i means for this many times
+# for how many ttimes?
+# for as many times as there are entries in thisdict
+
+print("for i = for as many times as there are values in thisdict, print i")
+# for i = for as many times as there are values in thisdict, print i
 for i in thisdict:
-    print(i, thisdict[i])
+    print(i)
+    
+for i in thisdict:
+    print(thisdict[i])
+    
+for i in thisdict:
+    print(i, " : ", thisdict[i])
 
 ##################
 
@@ -166,16 +152,21 @@ for count, value in enumerate(grocery_list):
 
 print ("------------------")
 # HELLO DICTIONARIES
+print("Hello Dictionaries")
 
+# a dictionary is a data structure. Aren't you fancy, learning data structures. You love data structures don't you? Yes you do! YYYYESS YOU DO! Aww come here *snuggles* A dictionary is a list where you can rename 1 2 3 4 5 to whatever you want. a Dictionary is a list of alphetical words with associated definitions.
 thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
+  "apple": "fruit",
+  "apartment": "place millennials live",
+  "apt": 1964
 }
 
+# for as many times as there are values stored in thisdict, print the position value i followed by the value stored in the positional value stored in thisdict
 for i in thisdict:
     print(i, ": ", thisdict[i])
-    
+
+# print the length or total number of values stored in thisdict    
 print(len(thisdict))
+
 
 ```
