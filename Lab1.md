@@ -120,7 +120,7 @@ print("The most fundamental tool used in all coding tests is called an array. An
 
 print("---------------------------")
 
-# imagine making a grocery list. this is how we'd create a grocery list
+# imagine making a grocery list. this is how we'd create a grocery list. This is called creating an array
 grocery_list = ["apples", "bears", "coranges", "dblueberries"]
 
 # creating a list isn't the same thing as showing it to the user, feel me? This is how you print the contents of value position zero
@@ -131,8 +131,7 @@ print(grocery_list[1])
 print(grocery_list[2])
 print(grocery_list[3])
 
-
-# I'm telling you, if you've gotten this far, YOU'RE SOOOOO CLOOOOOOOOOOOSE!!
+# I'm telling you, if you've gotten this far, YOU'RE SOOOOO CLOOOOOOOOOOOSE!! You've just learned your first handful of data structures, from variables to strings to arrays. Congrats! Now TAKE A BREAK!
 
 print("-------------------")
 
@@ -167,6 +166,8 @@ for i in thisdict:
 
 # print the length or total number of values stored in thisdict    
 print(len(thisdict))
+
+# end copying here
 
 
 ```
