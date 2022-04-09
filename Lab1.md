@@ -1,4 +1,8 @@
 # Welcome to Coding Starter Pack Lab Number 1
+
+![image](https://user-images.githubusercontent.com/45397093/162582764-b3797b4a-aadc-417d-960f-38b8ffb040ad.png)
+
+
 ## copy and paste the code below into https://www.programiz.com/python-programming/online-compiler/ to get started
 
 
